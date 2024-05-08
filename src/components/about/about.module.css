@@ -1,0 +1,64 @@
+.aboutWrap {
+    max-width: 1400px;
+    margin: 0 auto;
+    /* padding: 150px 0; */
+    display: flex;
+    height: 75vh;
+    justify-content: space-around;
+    padding-top: 150px;
+}
+
+/* .aboutWrap {
+    width: 500px;
+    height: auto;
+} */
+
+.h1 {
+    font-family: 'NotoSansMono', monospace;
+    font-size: 30px;
+}
+
+.img {
+    width: 500px;
+    height: auto;
+}
+
+/* .aboutText {
+    margin-left: 30px;
+} */
+
+.aboutTextItem {
+    width: 400px;
+    font-size: 20px;
+}
+
+.aboutLink {
+    text-decoration: none;
+    color: #d0a68a;
+    background-image: linear-gradient(to right, #f0efeb, #d0a68a);
+    background-repeat: no-repeat;
+    background-size: 30px 2px;
+    background-position: left bottom;
+    padding-bottom: 5px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.aboutLink:hover {
+    background-size: 100% 2px;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 70px;
+    width: 400px;
+}
+
+.skillsItem {
+    padding: 5px 15px;
+    margin: 5px 10px;
+    border-radius: 25px;
+    background-color: #ddbea9;
+    color: #fff;
+}

@@ -1,0 +1,49 @@
+.workBookshopWrap {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 150px;
+}
+
+.workBookshop {
+    display: flex;
+}
+
+.h1 {
+    font-family: 'NotoSansMono', monospace;
+    font-size: 30px;
+}
+
+.workBookshopDiscription {
+    margin-left: 50px;
+}
+
+.workBookshopDiscriptionItem {
+    width: 400px;
+    font-size: 16px;
+}
+
+.downloadProject {
+    border: none;
+    font-family: 'NotoSansMono', monospace;
+    font-size: 20px;
+    background-color: transparent;
+    background-image: linear-gradient(to right, #f0efeb, #d0a68a);
+    background-repeat: no-repeat;
+    background-size: 30px 2px;
+    background-position: left bottom;
+    padding-bottom: 5px;
+    text-decoration: none;
+    transition: 0.3s;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.downloadProject:hover {
+    background-size: 100% 2px;
+}
+
+.downloadProjectLink {
+    text-decoration: none;
+    color: #d0a68a;
+}

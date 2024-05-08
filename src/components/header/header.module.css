@@ -1,0 +1,37 @@
+.header {
+    background: -webkit-linear-gradient(150deg, #f0efeb,#ddbea9);/* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(150deg, #f0efeb,#ddbea9);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */                                                                                        
+}
+
+.headerWrap {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.headerNavLink {
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+    background-image: linear-gradient(to right, #f0efeb, #d0a68a);
+    background-repeat: no-repeat;
+    background-size: 10px 2px;
+    background-position: left bottom;
+    padding-bottom: 2px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.headerNavLink:hover {
+    color: #fff;
+    background-size: 100% 2px;
+}
+
+.backToMain {
+    text-decoration: none;
+    color: black;
+
+}

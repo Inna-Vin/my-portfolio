@@ -1,0 +1,47 @@
+.contactsBackground {
+    background-image: url('../../../img/1619580310_26-phonoteka_org-p-razmitii-fon-ofis-28.png');
+    background-size: cover;
+    height: 95vh;
+}
+.contactsWrap {
+    max-width: 1400px;
+    margin: 0 auto;
+    height: 90vh;
+    padding-top: 100px;
+}
+
+.h1 {
+    font-family: 'NotoSansMono', monospace;
+    font-size: 30px;
+    text-align: center;
+}
+
+.textWrap {
+    display: flex;
+    justify-content: center;
+}
+
+.contactsText {
+    text-align: center;
+    width: 300px;
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+.contscts {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 150px;
+}
+
+.imgLogo {
+    width: 100px;
+    height: 100px;
+}
+
+/* .contactItem {
+    padding: 30px;
+    background: linear-gradient(150deg, #f0efeb,#ddbea9);
+    border-radius: 50%;
+    color: #f0efeb;
+} */

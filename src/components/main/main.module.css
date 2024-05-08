@@ -1,0 +1,65 @@
+/* @font-face {
+    font-family: 'NotoSansMonoRegular', monospace;
+    src: url('../../../fonts/NotoSansMono-Regular.ttf');
+} 
+
+@font-face {
+    font-family: 'NotoSansMono', monospace;
+    src: url('../../../fonts/NotoSansMono-Medium.ttf');
+} 
+.main {
+    background-image: url('../../img/1646816301_4-abrakadabra-fun-p-fon-dlya-vakansii-4.jpg');
+    background-size: cover;
+}
+
+.mainWrap {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 150px 0;
+}
+
+.h1 {
+    font-family: 'NotoSansMono', monospace;
+    font-size: 60px;
+}
+
+.h3 {
+    font-family: 'NotoSansMonoRegular', monospace;
+    font-size: 40px;
+    padding: 50px 0;
+    background-image: linear-gradient(to right, #f0efeb, #d0a68a);
+    background-repeat: no-repeat;
+    background-size: 300px 3px;
+    background-position: left bottom;
+    padding-bottom: 50px;
+}
+
+.text {
+    font-family: 'NotoSansMonoRegular', monospace;
+    font-size: 24px;
+}
+
+.button {
+    border: none;
+    color: #d0a68a;
+    margin-top: 50px;
+    font-family: 'NotoSansMono', monospace;
+    font-size: 24px;
+    cursor: pointer;
+    background-color: transparent;
+    background-image: linear-gradient(to right, #f0efeb, #d0a68a);
+    background-repeat: no-repeat;
+    background-size: 30px 2px;
+    background-position: left bottom;
+    padding-bottom: 5px;
+    text-decoration: none;
+    transition: 0.3s;
+    background-color: #f0efebab;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background-size: 100% 2px;
+}
+ */
